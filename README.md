@@ -1,6 +1,7 @@
 # Description of the projects 
 
-##Project 1 :Event Management System
+## Project 1 :Event Management System
+
 This Python project is a simple Event Management System that allows users to create new events, store participant and sponsor details, and fetch event details. The system provides a basic command-line interface with different options.
 
 Features:
@@ -33,7 +34,8 @@ This repository contains two projects developed using Python and Tkinter for cre
 
 
 
-##Project 2:Enhanced Event Management System
+## Project 2:Enhanced Event Management System
+
 This Python project is an enhanced version of the Event Management System. It now incorporates the use of Excel files to store event details, providing a more structured and organized approach.
 
 Features:
@@ -54,7 +56,7 @@ Retrieve event details by searching for an existing event.
 The enhanced version now utilizes Excel files for better organization and easier data manipulation. Enjoy managing your events with this improved Event Management System!
 
 
-##Project 3:Loan Calculator
+## Project 3:Loan Calculator
 
 This Python project is a simple GUI-based Loan Calculator that allows users to calculate both simple and compound interest. The calculator is built using the Tkinter library, providing an easy-to-use interface.
 
