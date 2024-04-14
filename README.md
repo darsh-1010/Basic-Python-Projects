@@ -147,10 +147,10 @@ Observe the results: The code will display the calculated number of coins and no
 Example Usage:
 
 Python
-# Assuming the script is named coin_note_analysis.py
+Assuming the script is named coin_note_analysis.py
 amount = int(input("Enter the currency amount: "))
 
-# Function to calculate denominations (replace with your actual implementation)
+Function to calculate denominations (replace with your actual implementation)
 def calculate_denominations(amount):
   denominations = [2000, 500, 200, 100, 50, 20, 10, 5, 2, 1]  # Indian denominations
   coins_notes = {denomination: 0 for denomination in denominations}
@@ -161,7 +161,7 @@ def calculate_denominations(amount):
 
   return coins_notes
 
-# Calculate and print results
+Calculate and print results
 results = calculate_denominations(amount)
 for denomination, count in results.items():
   if count > 0:
