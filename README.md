@@ -85,7 +85,7 @@ Enjoy the convenience of calculating simple and compound interest with this Loan
 
 
 
-## Project 4: IRCTCApp (Train Schedule Viewer)
+## Project 4: GUI Based Ticket Booking System / IRCTCApp (Train Schedule Viewer)
 
 ### Description
 The `IRCTCApp` project is a Tkinter-based application that allows users to view the train schedule. It provides an interface to select between viewing the train schedule and booking train tickets.
